@@ -1,0 +1,5 @@
+* xref::index.adoc[Введение]
+* xref::ponyatia.adoc[Основные понятия]
+* xref::princin.adoc[Общие принципы работы в Moodle]
+* Управление курсом
+** xref::zapros.adoc[Запрос на создание курса]
