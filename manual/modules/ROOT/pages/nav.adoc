@@ -3,3 +3,8 @@
 * xref::princin.adoc[Общие принципы работы в Moodle]
 * Управление курсом
 ** xref::zapros.adoc[Запрос на создание курса]
+** xref::domik.adoc[Домашняя страница курса]
+** xref::grup.adoc[Группы, потоки]
+** xref::nastrok.adoc[Настройки курса]
+** xref::redac.adoc[Режим редактирования]
+** xref::razdel.adoc[Разделы курса]
